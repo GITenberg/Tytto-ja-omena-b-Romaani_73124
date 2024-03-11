@@ -1,0 +1,25 @@
+_repo: Tytto-ja-omena-b-Romaani_73124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Enner, Lasse
+    gutenberg_agent_id: '56951'
+    url: http://www.gutenberg.org/2009/agents/56951
+description: ''
+gutenberg_issued: '2024-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73124'
+language: fi
+pgterms:marc905: 20231219093750enner
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tyttö ja omena : $b Romaani'
+url: http://www.gutenberg.org/ebooks/73124
