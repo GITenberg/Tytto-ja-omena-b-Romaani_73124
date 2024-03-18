@@ -1,11 +1,16 @@
 _repo: Tytto-ja-omena-b-Romaani_73124
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Enner, Lasse
     gutenberg_agent_id: '56951'
     url: http://www.gutenberg.org/2009/agents/56951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73124#Tytto-ja-omena-b-Romaani
 gutenberg_issued: '2024-03-08'
 gutenberg_type: Text
 identifiers:
